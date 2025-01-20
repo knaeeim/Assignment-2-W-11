@@ -300,6 +300,7 @@
     font-size: 15.34px;
     top: 56%;
     left: 15%;
+    transform: translate(-20%, 5%);
     color: #FFFFFF;
 }
 
@@ -310,6 +311,7 @@
     border-radius: 50px;
     top: 51%;
     left: 10%;
+    transform: translate(-20%, -5%);
     background-color: #3CD8E8;
     color: #FFFFFF;
 }
@@ -491,6 +493,7 @@
         top: 60%;
         left: 25%;
         padding: 5px 10px;
+        transform: translate(5%, -5%);
     }
 
     #sec-color, #fourth-color, #fifth-color{
