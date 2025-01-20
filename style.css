@@ -493,6 +493,14 @@
         padding: 5px 10px;
     }
 
+    #sec-color, #fourth-color, #fifth-color{
+        background-color: #95B226;
+    }
+    
+    #third-color{
+        background-color: #5D58F0;
+    }
+
     .footer{
         flex-direction: column;
         padding: 40px 20px;
