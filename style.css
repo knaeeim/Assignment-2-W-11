@@ -207,7 +207,7 @@
 .our-stories{
     max-height: 1218px;
     /* margin-bottom: 130px; */
-    background: linear-gradient(to top, #fea10151, #FFFFFF), url(assets/bg.png);
+    background: url(assets/bg.png), linear-gradient(to top, #fea10151, #FFFFFF);
     padding: 80px 0;
 }
 
