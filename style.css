@@ -300,6 +300,7 @@
     font-size: 15.34px;
     top: 56%;
     left: 15%;
+    color: #FFFFFF;
 }
 
 .story-date-first{
@@ -310,6 +311,19 @@
     top: 51%;
     left: 10%;
     background-color: #3CD8E8;
+    color: #FFFFFF;
+}
+
+#first-color{
+    background-color: #3CD8E8;
+}
+
+#sec-color, #fourth-color, #fifth-color{
+    background-color: #95B226;
+}
+
+#third-color{
+    background-color: #5D58F0;
 }
 
 .footer{
